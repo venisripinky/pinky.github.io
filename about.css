@@ -1,0 +1,11 @@
+.abc{
+    border: 3px solid red;
+}
+.cde{
+    border: 3px solid purple;
+    border-radius: 10px;
+    width: 10%;
+    background-color: #ED7B7B;
+    box-shadow: inset;
+    
+}

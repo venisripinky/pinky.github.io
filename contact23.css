@@ -1,0 +1,10 @@
+.pan{
+    border: 6px solid palegreen;
+}
+.st{
+    border: 5px solid violet;
+    width: 500px;
+    border-radius: 20px;
+    padding:20px;
+    background-color:blanchedalmond;
+}
